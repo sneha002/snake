@@ -3,7 +3,7 @@ public class myclass
 {
 public static void main(String[] Strings) 
 {
- double minutesInYear = 60 * 24 * 365;
+ double minutes in Year = 60 * 24 * 365;
  Scanner input = new Scanner(System.in);
  system.out.print("Input the number of minutes: ");
  double min = input.nextDouble();
